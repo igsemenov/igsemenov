@@ -1,16 +1,23 @@
-### Hi there 👋
+## Dr. Igor Semenov
 
-<!--
-**igsemenov/igsemenov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Research fellow</br>
+Leibniz Institute for Plasma Science and Technology</br>
+Greifswald, Germany
 
-Here are some ideas to get you started:
+Currently working on a *lightweight adaptive finite element* solver for elliptic and parabolic PDEs — [triellipt](https://github.com/igsemenov/triellipt)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Motivation Behind
+
+**Overall Goal**
+- To develop an efficient framework that operates between high-fidelity simulations and low-fidelity models.
+
+**Technical Objectives**
+- Developing a flexible tool for *domain decomposition* and *boundary condition transfer*.
+- Designing efficient and robust *adaptive mesh refinement* techniques for *unstructured meshes*.
+- Exploring the synergy between *low-* and *high-order discretization schemes*.
+- Striving for implementation simplicity to ensure *accessibility*.
+
+### Contact
+
+- LinkedIn: [Igor Semenov](https://de.linkedin.com/in/igor-semenov-959564197)
+- Email: [igor.semenov@inp-greifswald.de](mailto:igor.semenov@inp-greifswald.de)
