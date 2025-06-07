@@ -1,7 +1,7 @@
 ## Dr. Igor Semenov
 
 Research fellow</br>
-Leibniz Institute for Plasma Science and Technology</br>
+[Leibniz Institute for Plasma Science and Technology](https://www.inp-greifswald.de/)</br>
 Greifswald, Germany
 
 Currently working on a *lightweight adaptive finite element* solver for elliptic and parabolic PDEs — [triellipt](https://github.com/igsemenov/triellipt)
