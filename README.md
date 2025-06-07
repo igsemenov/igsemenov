@@ -9,7 +9,7 @@ Currently working on a *lightweight adaptive finite element* solver for elliptic
 ### Motivation Behind
 
 **Overall Goal**
-- To develop an efficient framework that operates between high-fidelity simulations and low-fidelity models.
+- To develop a *lightweight* framework positioned between *high-fidelity simulations* and *low-fidelity models*.
 
 **Technical Objectives**
 - Developing a flexible tool for *domain decomposition* and *boundary condition transfer*.
